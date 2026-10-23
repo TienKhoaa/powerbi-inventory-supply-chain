@@ -8,7 +8,11 @@ Dashboard Power BI quản trị tồn kho và mua hàng cho một công ty phân
 
 > **Lưu ý quan trọng: toàn bộ dữ liệu trong project này là dữ liệu MÔ PHỎNG** do script Python trong repo sinh ra, không phải dữ liệu của doanh nghiệp thật. Một số mẫu hình (nhà cung cấp trễ, tăng giá, hàng tồn đọng) được cài sẵn trong dữ liệu để kiểm chứng phương pháp phân tích. Các kết luận bên dưới có giá trị chứng minh kỹ năng, không phải kết luận về một doanh nghiệp cụ thể.
 
-![Demo dashboard](images/demo.gif)
+
+
+https://github.com/user-attachments/assets/16542e21-5ac3-4187-b5a5-49857bddcc9e
+
+
 
 ## Tóm tắt kết quả
 
