@@ -1,0 +1,13 @@
+﻿supplier_id,supplier_name,region,promised_lead_days
+SUP01,Công ty TNHH Điện Việt Phát,Miền Bắc,7
+SUP02,Công ty CP Thiết bị Điện Hoàng Long,Miền Nam,5
+SUP03,Công ty TNHH Cáp điện Đông Á Phát,Miền Bắc,10
+SUP04,Công ty CP Chiếu sáng Minh Quang,Miền Trung,6
+SUP05,Công ty TNHH Vật tư Điện Bắc Hà,Miền Bắc,8
+SUP06,Công ty CP Cơ điện Nam Thành,Miền Nam,5
+SUP07,Công ty TNHH Thiết bị Đo Tân Phong,Nhập khẩu,21
+SUP08,Công ty CP Tủ bảng điện An Khang,Miền Nam,7
+SUP09,Công ty TNHH Phụ kiện Điện Sao Mai,Miền Trung,6
+SUP10,Công ty CP Dụng cụ Kim Long,Nhập khẩu,18
+SUP11,Công ty TNHH Điện Dân dụng Hưng Thịnh,Miền Nam,6
+SUP12,Công ty CP Vật liệu Điện Đại Dương,Miền Bắc,9

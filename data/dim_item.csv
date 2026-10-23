@@ -1,0 +1,301 @@
+﻿item_id,item_name,category,unit,standard_cost,main_supplier_id
+ITM001,Đèn LED panel 36W Eco,Đèn LED,cái,29100,SUP12
+ITM002,Aptomat 2P 32A Pro,Aptomat & Cầu dao,cái,426300,SUP02
+ITM003,Đèn LED tuýp 18W Plus,Đèn LED,cái,44100,SUP06
+ITM004,Máy khoan Loại vừa Plus,Dụng cụ,cái,720800,SUP12
+ITM005,Công tơ điện Model A Std,Thiết bị đo,cái,458700,SUP07
+ITM006,Ổ cắm đôi bạc Plus,Ổ cắm & Công tắc,cái,22100,SUP11
+ITM007,Ống ruột gà D32 Eco,Ống & Phụ kiện,cây,30100,SUP09
+ITM008,Tủ điện nổi 12 module Pro,Tủ điện,cái,1585100,SUP08
+ITM009,Ống luồn dây D25 Std,Ống & Phụ kiện,cây,9100,SUP09
+ITM010,Aptomat 2P 40A Plus,Aptomat & Cầu dao,cái,60500,SUP02
+ITM011,Cáp nhôm vặn xoắn 2.5mm² Plus,Cáp điện,mét,63100,SUP01
+ITM012,Cáp đồng 1 lõi 1.5mm² Plus,Cáp điện,mét,11200,SUP01
+ITM013,Cáp điều khiển 2.5mm² Std,Cáp điện,mét,59600,SUP11
+ITM014,Công tắc 2 chiều bạc Plus,Ổ cắm & Công tắc,cái,108400,SUP11
+ITM015,Công tắc 2 chiều trắng Std,Ổ cắm & Công tắc,cái,102500,SUP09
+ITM016,Tua vít Loại lớn Std,Dụng cụ,cái,132000,SUP12
+ITM017,Aptomat 1P 32A Pro,Aptomat & Cầu dao,cái,71400,SUP02
+ITM018,Đèn LED tuýp 9W Plus,Đèn LED,cái,42300,SUP12
+ITM019,Ống ruột gà D40 Std,Ống & Phụ kiện,cây,8700,SUP09
+ITM020,Aptomat 2P 20A Eco,Aptomat & Cầu dao,cái,177600,SUP06
+ITM021,Cáp đồng 2 lõi 4mm² Eco,Cáp điện,mét,12900,SUP03
+ITM022,Ổ cắm ba bạc Eco,Ổ cắm & Công tắc,cái,107800,SUP09
+ITM023,Đồng hồ vạn năng Model A Std,Thiết bị đo,cái,577400,SUP10
+ITM024,Bóng LED bulb 24W Eco,Đèn LED,cái,246600,SUP04
+ITM025,Aptomat 1P 16A Eco,Aptomat & Cầu dao,cái,536000,SUP06
+ITM026,Ống ruột gà D20 Plus,Ống & Phụ kiện,cây,73900,SUP05
+ITM027,Bóng LED bulb 36W Eco,Đèn LED,cái,35300,SUP06
+ITM028,Công tắc 2 chiều đen Pro,Ổ cắm & Công tắc,cái,187100,SUP11
+ITM029,Công tơ điện Model C Std,Thiết bị đo,cái,967200,SUP07
+ITM030,Cáp điều khiển 2.5mm² Plus,Cáp điện,mét,56100,SUP11
+ITM031,Aptomat 1P 16A Std,Aptomat & Cầu dao,cái,91700,SUP01
+ITM032,Ổ cắm ba ghi Eco,Ổ cắm & Công tắc,cái,16800,SUP11
+ITM033,Máy khoan Loại lớn Std,Dụng cụ,cái,684600,SUP12
+ITM034,Bút thử điện Model A Std,Thiết bị đo,cái,143300,SUP10
+ITM035,Công tắc 2 chiều bạc Pro,Ổ cắm & Công tắc,cái,111600,SUP09
+ITM036,Aptomat 3P 63A Pro,Aptomat & Cầu dao,cái,548100,SUP01
+ITM037,Đồng hồ vạn năng Model B Std,Thiết bị đo,cái,247300,SUP10
+ITM038,Aptomat 3P 63A Std,Aptomat & Cầu dao,cái,250200,SUP06
+ITM039,Đèn pha LED 50W Eco,Đèn LED,cái,131900,SUP04
+ITM040,Ống ruột gà D25 Pro,Ống & Phụ kiện,cây,95500,SUP12
+ITM041,Tủ điện âm tường 12 module Plus,Tủ điện,cái,444000,SUP06
+ITM042,Đèn pha LED 9W Eco,Đèn LED,cái,385600,SUP04
+ITM043,Máng cáp D40 Std,Ống & Phụ kiện,cây,10800,SUP05
+ITM044,Ống ruột gà D20 Std,Ống & Phụ kiện,cây,28600,SUP09
+ITM045,Đèn LED tuýp 12W Eco,Đèn LED,cái,125300,SUP04
+ITM046,Ống ruột gà D20 Pro,Ống & Phụ kiện,cây,179100,SUP12
+ITM047,Cáp điều khiển 10mm² Plus,Cáp điện,mét,25200,SUP01
+ITM048,Ổ cắm đôi vàng đồng Std,Ổ cắm & Công tắc,cái,164100,SUP02
+ITM049,Đèn LED tuýp 50W Pro,Đèn LED,cái,37200,SUP04
+ITM050,Kìm điện Loại lớn Plus,Dụng cụ,cái,107000,SUP07
+ITM051,Mỏ lết Loại nhỏ Plus,Dụng cụ,cái,500900,SUP10
+ITM052,Ống luồn dây D40 Plus,Ống & Phụ kiện,cây,7500,SUP05
+ITM053,Ampe kìm Model C Std,Thiết bị đo,cái,424400,SUP07
+ITM054,Aptomat 1P 63A Plus,Aptomat & Cầu dao,cái,49600,SUP02
+ITM055,Công tắc 2 chiều trắng Eco,Ổ cắm & Công tắc,cái,71100,SUP09
+ITM056,Đèn pha LED 36W Plus,Đèn LED,cái,328400,SUP04
+ITM057,Tua vít Loại vừa Pro,Dụng cụ,cái,37100,SUP10
+ITM058,Bóng LED bulb 9W Eco,Đèn LED,cái,119100,SUP06
+ITM059,Tủ điện âm tường 6 module Std,Tủ điện,cái,427800,SUP05
+ITM060,Cáp đồng 1 lõi 2.5mm² Pro,Cáp điện,mét,41200,SUP03
+ITM061,Ống ruột gà D16 Pro,Ống & Phụ kiện,cây,72200,SUP09
+ITM062,Cáp điều khiển 1.5mm² Eco,Cáp điện,mét,12100,SUP11
+ITM063,Công tắc 2 chiều đen Plus,Ổ cắm & Công tắc,cái,38900,SUP09
+ITM064,Cầu dao 2P 16A Eco,Aptomat & Cầu dao,cái,49500,SUP01
+ITM065,Công tắc 1 chiều vàng đồng Pro,Ổ cắm & Công tắc,cái,164900,SUP11
+ITM066,Kìm điện Loại vừa Plus,Dụng cụ,cái,147900,SUP12
+ITM067,Công tắc 1 chiều trắng Std,Ổ cắm & Công tắc,cái,94200,SUP09
+ITM068,Công tắc 2 chiều vàng đồng Plus,Ổ cắm & Công tắc,cái,29600,SUP02
+ITM069,Aptomat 1P 32A Plus,Aptomat & Cầu dao,cái,246600,SUP06
+ITM070,Cầu dao 2P 16A Std,Aptomat & Cầu dao,cái,548100,SUP06
+ITM071,Tủ điện ngoài trời 6 module Eco,Tủ điện,cái,1572800,SUP08
+ITM072,Đèn LED panel 50W Pro,Đèn LED,cái,606100,SUP04
+ITM073,Ống ruột gà D20 Eco,Ống & Phụ kiện,cây,22300,SUP12
+ITM074,Tua vít Loại vừa Eco,Dụng cụ,cái,174400,SUP07
+ITM075,Đèn LED tuýp 24W Pro,Đèn LED,cái,566400,SUP04
+ITM076,Ampe kìm Model A Pro,Thiết bị đo,cái,2930200,SUP07
+ITM077,Cáp nhôm vặn xoắn 4mm² Plus,Cáp điện,mét,26900,SUP11
+ITM078,Máng cáp D20 Eco,Ống & Phụ kiện,cây,52000,SUP05
+ITM079,Ổ cắm đôi vàng đồng Eco,Ổ cắm & Công tắc,cái,34500,SUP02
+ITM080,Aptomat 2P 63A Plus,Aptomat & Cầu dao,cái,242000,SUP01
+ITM081,Cáp đồng 2 lõi 10mm² Std,Cáp điện,mét,32700,SUP11
+ITM082,Tủ điện nổi 12 module Eco,Tủ điện,cái,239300,SUP06
+ITM083,Aptomat 3P 20A Pro,Aptomat & Cầu dao,cái,156200,SUP02
+ITM084,Công tắc 2 chiều trắng Pro,Ổ cắm & Công tắc,cái,33700,SUP11
+ITM085,Bút thử điện Model B Plus,Thiết bị đo,cái,2150800,SUP10
+ITM086,Mỏ lết Loại vừa Plus,Dụng cụ,cái,121100,SUP12
+ITM087,Công tắc 2 chiều vàng đồng Std,Ổ cắm & Công tắc,cái,66500,SUP09
+ITM088,Ổ cắm ba vàng đồng Plus,Ổ cắm & Công tắc,cái,16400,SUP11
+ITM089,Tua vít Loại lớn Eco,Dụng cụ,cái,496100,SUP12
+ITM090,Cáp đồng 1 lõi 6mm² Plus,Cáp điện,mét,75000,SUP01
+ITM091,Mỏ lết Loại nhỏ Std,Dụng cụ,cái,370400,SUP12
+ITM092,Máy khoan Loại nhỏ Std,Dụng cụ,cái,166000,SUP07
+ITM093,Đồng hồ vạn năng Model A Eco,Thiết bị đo,cái,476300,SUP10
+ITM094,Mỏ lết Loại lớn Std,Dụng cụ,cái,72900,SUP10
+ITM095,Công tơ điện Model A Eco,Thiết bị đo,cái,2943300,SUP07
+ITM096,Ống ruột gà D40 Eco,Ống & Phụ kiện,cây,131600,SUP05
+ITM097,Công tắc 2 chiều ghi Pro,Ổ cắm & Công tắc,cái,17200,SUP11
+ITM098,Aptomat 3P 40A Eco,Aptomat & Cầu dao,cái,421000,SUP01
+ITM099,Ampe kìm Model A Plus,Thiết bị đo,cái,1638100,SUP07
+ITM100,Ống ruột gà D16 Eco,Ống & Phụ kiện,cây,179600,SUP09
+ITM101,Tủ điện nổi 6 module Eco,Tủ điện,cái,220900,SUP05
+ITM102,Đèn pha LED 12W Std,Đèn LED,cái,68000,SUP04
+ITM103,Tủ điện ngoài trời 24 module Std,Tủ điện,cái,1694700,SUP06
+ITM104,Cầu dao 2P 20A Pro,Aptomat & Cầu dao,cái,59800,SUP06
+ITM105,Cáp đồng 1 lõi 4mm² Eco,Cáp điện,mét,30600,SUP11
+ITM106,Bóng LED bulb 18W Pro,Đèn LED,cái,141800,SUP06
+ITM107,Đèn LED tuýp 18W Pro,Đèn LED,cái,23800,SUP12
+ITM108,Aptomat 1P 63A Eco,Aptomat & Cầu dao,cái,562800,SUP01
+ITM109,Aptomat 1P 32A Std,Aptomat & Cầu dao,cái,385500,SUP01
+ITM110,Cáp điều khiển 4mm² Std,Cáp điện,mét,11600,SUP01
+ITM111,Aptomat 3P 20A Eco,Aptomat & Cầu dao,cái,58000,SUP06
+ITM112,Ống luồn dây D32 Eco,Ống & Phụ kiện,cây,15400,SUP05
+ITM113,Cáp đồng 1 lõi 2.5mm² Std,Cáp điện,mét,11200,SUP11
+ITM114,Aptomat 2P 10A Eco,Aptomat & Cầu dao,cái,92700,SUP02
+ITM115,Cầu dao 2P 20A Std,Aptomat & Cầu dao,cái,134100,SUP01
+ITM116,Tủ điện âm tường 18 module Eco,Tủ điện,cái,243600,SUP06
+ITM117,Ampe kìm Model C Eco,Thiết bị đo,cái,569800,SUP07
+ITM118,Aptomat 2P 16A Std,Aptomat & Cầu dao,cái,146600,SUP06
+ITM119,Aptomat 1P 16A Pro,Aptomat & Cầu dao,cái,153100,SUP02
+ITM120,Máng cáp D25 Pro,Ống & Phụ kiện,cây,6200,SUP05
+ITM121,Co nối D40 Std,Ống & Phụ kiện,cây,97400,SUP05
+ITM122,Mỏ lết Loại lớn Plus,Dụng cụ,cái,595200,SUP10
+ITM123,Đèn pha LED 36W Eco,Đèn LED,cái,21400,SUP04
+ITM124,Cáp đồng 2 lõi 10mm² Pro,Cáp điện,mét,21400,SUP01
+ITM125,Cáp điều khiển 4mm² Plus,Cáp điện,mét,8900,SUP11
+ITM126,Đèn LED panel 18W Std,Đèn LED,cái,339100,SUP04
+ITM127,Bút thử điện Model A Plus,Thiết bị đo,cái,2790000,SUP10
+ITM128,Máng cáp D32 Eco,Ống & Phụ kiện,cây,24500,SUP05
+ITM129,Tủ điện nổi 24 module Pro,Tủ điện,cái,187500,SUP06
+ITM130,Co nối D20 Std,Ống & Phụ kiện,cây,101200,SUP12
+ITM131,Ống ruột gà D16 Std,Ống & Phụ kiện,cây,40800,SUP09
+ITM132,Tủ điện ngoài trời 24 module Pro,Tủ điện,cái,269900,SUP06
+ITM133,Ổ cắm ba ghi Plus,Ổ cắm & Công tắc,cái,142800,SUP11
+ITM134,Co nối D20 Pro,Ống & Phụ kiện,cây,15600,SUP09
+ITM135,Ổ cắm đôi bạc Pro,Ổ cắm & Công tắc,cái,159900,SUP09
+ITM136,Bút thử điện Model C Eco,Thiết bị đo,cái,845900,SUP10
+ITM137,Aptomat 3P 63A Plus,Aptomat & Cầu dao,cái,101500,SUP06
+ITM138,Công tắc 1 chiều ghi Eco,Ổ cắm & Công tắc,cái,26900,SUP02
+ITM139,Aptomat 3P 32A Plus,Aptomat & Cầu dao,cái,162500,SUP01
+ITM140,Cáp đồng 2 lõi 1.5mm² Std,Cáp điện,mét,69100,SUP11
+ITM141,Đèn LED panel 18W Eco,Đèn LED,cái,410300,SUP06
+ITM142,Máy khoan Loại lớn Pro,Dụng cụ,cái,71500,SUP07
+ITM143,Máng cáp D20 Std,Ống & Phụ kiện,cây,14100,SUP09
+ITM144,Cầu dao 2P 16A Plus,Aptomat & Cầu dao,cái,104000,SUP02
+ITM145,Công tắc 2 chiều bạc Std,Ổ cắm & Công tắc,cái,48900,SUP11
+ITM146,Mỏ lết Loại nhỏ Eco,Dụng cụ,cái,656800,SUP07
+ITM147,Cáp đồng 2 lõi 4mm² Std,Cáp điện,mét,11000,SUP11
+ITM148,Công tơ điện Model C Plus,Thiết bị đo,cái,422400,SUP10
+ITM149,Aptomat 3P 10A Pro,Aptomat & Cầu dao,cái,376100,SUP06
+ITM150,Bút thử điện Model B Pro,Thiết bị đo,cái,131200,SUP07
+ITM151,Bóng LED bulb 12W Plus,Đèn LED,cái,570800,SUP04
+ITM152,Ổ cắm ba vàng đồng Pro,Ổ cắm & Công tắc,cái,15100,SUP02
+ITM153,Đèn pha LED 12W Pro,Đèn LED,cái,43200,SUP12
+ITM154,Ổ cắm đôi trắng Plus,Ổ cắm & Công tắc,cái,18000,SUP09
+ITM155,Cáp nhôm vặn xoắn 1.5mm² Std,Cáp điện,mét,14000,SUP11
+ITM156,Đèn LED panel 12W Eco,Đèn LED,cái,37500,SUP12
+ITM157,Đèn pha LED 12W Plus,Đèn LED,cái,361000,SUP04
+ITM158,Aptomat 2P 40A Eco,Aptomat & Cầu dao,cái,203900,SUP01
+ITM159,Tủ điện nổi 12 module Plus,Tủ điện,cái,686700,SUP05
+ITM160,Đèn LED panel 24W Std,Đèn LED,cái,39600,SUP04
+ITM161,Cáp nhôm vặn xoắn 10mm² Eco,Cáp điện,mét,23100,SUP01
+ITM162,Bút thử điện Model C Std,Thiết bị đo,cái,334400,SUP10
+ITM163,Đèn LED panel 24W Pro,Đèn LED,cái,323400,SUP06
+ITM164,Đồng hồ vạn năng Model B Pro,Thiết bị đo,cái,445800,SUP07
+ITM165,Cáp nhôm vặn xoắn 10mm² Pro,Cáp điện,mét,28900,SUP11
+ITM166,Tua vít Loại lớn Pro,Dụng cụ,cái,62200,SUP10
+ITM167,Cáp đồng 2 lõi 1.5mm² Eco,Cáp điện,mét,76500,SUP01
+ITM168,Aptomat 1P 10A Std,Aptomat & Cầu dao,cái,52000,SUP02
+ITM169,Kìm điện Loại lớn Eco,Dụng cụ,cái,813700,SUP07
+ITM170,Bóng LED bulb 36W Std,Đèn LED,cái,182600,SUP04
+ITM171,Bóng LED bulb 50W Eco,Đèn LED,cái,752600,SUP12
+ITM172,Cáp điều khiển 1.5mm² Std,Cáp điện,mét,16600,SUP01
+ITM173,Đèn LED tuýp 50W Plus,Đèn LED,cái,316900,SUP04
+ITM174,Công tắc 1 chiều trắng Pro,Ổ cắm & Công tắc,cái,15800,SUP02
+ITM175,Ổ cắm đôi vàng đồng Pro,Ổ cắm & Công tắc,cái,16600,SUP11
+ITM176,Aptomat 2P 16A Plus,Aptomat & Cầu dao,cái,254800,SUP02
+ITM177,Công tắc 1 chiều ghi Std,Ổ cắm & Công tắc,cái,59500,SUP11
+ITM178,Cáp đồng 1 lõi 10mm² Std,Cáp điện,mét,17800,SUP01
+ITM179,Ampe kìm Model B Std,Thiết bị đo,cái,285900,SUP10
+ITM180,Ampe kìm Model A Std,Thiết bị đo,cái,3295400,SUP10
+ITM181,Ống ruột gà D32 Pro,Ống & Phụ kiện,cây,35200,SUP05
+ITM182,Tủ điện nổi 24 module Std,Tủ điện,cái,466300,SUP05
+ITM183,Ampe kìm Model C Pro,Thiết bị đo,cái,3256600,SUP10
+ITM184,Co nối D32 Plus,Ống & Phụ kiện,cây,5000,SUP12
+ITM185,Cáp đồng 2 lõi 10mm² Plus,Cáp điện,mét,83500,SUP03
+ITM186,Cáp điều khiển 10mm² Pro,Cáp điện,mét,51800,SUP01
+ITM187,Co nối D32 Pro,Ống & Phụ kiện,cây,46100,SUP09
+ITM188,Công tắc 1 chiều ghi Pro,Ổ cắm & Công tắc,cái,45800,SUP02
+ITM189,Công tắc 1 chiều đen Eco,Ổ cắm & Công tắc,cái,39900,SUP11
+ITM190,Aptomat 3P 10A Plus,Aptomat & Cầu dao,cái,117900,SUP01
+ITM191,Cáp đồng 1 lõi 4mm² Pro,Cáp điện,mét,38600,SUP11
+ITM192,Aptomat 1P 20A Pro,Aptomat & Cầu dao,cái,56900,SUP06
+ITM193,Ổ cắm ba bạc Pro,Ổ cắm & Công tắc,cái,60700,SUP09
+ITM194,Ổ cắm ba đen Plus,Ổ cắm & Công tắc,cái,57300,SUP11
+ITM195,Co nối D20 Plus,Ống & Phụ kiện,cây,47000,SUP12
+ITM196,Cáp điều khiển 6mm² Plus,Cáp điện,mét,9900,SUP11
+ITM197,Co nối D16 Plus,Ống & Phụ kiện,cây,73600,SUP09
+ITM198,Tủ điện âm tường 12 module Std,Tủ điện,cái,1563800,SUP05
+ITM199,Aptomat 1P 40A Eco,Aptomat & Cầu dao,cái,57300,SUP06
+ITM200,Mỏ lết Loại vừa Eco,Dụng cụ,cái,51700,SUP10
+ITM201,Ổ cắm đôi ghi Pro,Ổ cắm & Công tắc,cái,127800,SUP11
+ITM202,Cầu dao 2P 40A Std,Aptomat & Cầu dao,cái,104700,SUP01
+ITM203,Aptomat 3P 32A Eco,Aptomat & Cầu dao,cái,85100,SUP02
+ITM204,Aptomat 2P 63A Std,Aptomat & Cầu dao,cái,167500,SUP02
+ITM205,Công tắc 1 chiều bạc Eco,Ổ cắm & Công tắc,cái,16600,SUP11
+ITM206,Tủ điện ngoài trời 24 module Eco,Tủ điện,cái,247700,SUP05
+ITM207,Cầu dao 2P 32A Pro,Aptomat & Cầu dao,cái,627200,SUP06
+ITM208,Ống luồn dây D32 Std,Ống & Phụ kiện,cây,58300,SUP05
+ITM209,Bóng LED bulb 18W Std,Đèn LED,cái,28900,SUP04
+ITM210,Bóng LED bulb 12W Pro,Đèn LED,cái,24200,SUP04
+ITM211,Co nối D25 Std,Ống & Phụ kiện,cây,29100,SUP09
+ITM212,Ổ cắm đôi đen Std,Ổ cắm & Công tắc,cái,46400,SUP02
+ITM213,Ống ruột gà D16 Plus,Ống & Phụ kiện,cây,95500,SUP05
+ITM214,Máy khoan Loại vừa Pro,Dụng cụ,cái,60200,SUP07
+ITM215,Aptomat 3P 63A Eco,Aptomat & Cầu dao,cái,58000,SUP02
+ITM216,Tủ điện nổi 6 module Std,Tủ điện,cái,264800,SUP06
+ITM217,Cáp đồng 1 lõi 6mm² Eco,Cáp điện,mét,16300,SUP03
+ITM218,Cáp nhôm vặn xoắn 6mm² Eco,Cáp điện,mét,44100,SUP03
+ITM219,Máy khoan Loại vừa Eco,Dụng cụ,cái,485300,SUP07
+ITM220,Cáp đồng 2 lõi 6mm² Plus,Cáp điện,mét,15100,SUP01
+ITM221,Máy khoan Loại lớn Eco,Dụng cụ,cái,473600,SUP10
+ITM222,Kìm điện Loại nhỏ Std,Dụng cụ,cái,556000,SUP07
+ITM223,Công tắc 2 chiều trắng Plus,Ổ cắm & Công tắc,cái,46000,SUP02
+ITM224,Ống luồn dây D32 Pro,Ống & Phụ kiện,cây,164900,SUP05
+ITM225,Ổ cắm đôi trắng Eco,Ổ cắm & Công tắc,cái,135400,SUP09
+ITM226,Bút thử điện Model C Pro,Thiết bị đo,cái,385200,SUP10
+ITM227,Aptomat 1P 32A Eco,Aptomat & Cầu dao,cái,320200,SUP01
+ITM228,Ổ cắm ba trắng Eco,Ổ cắm & Công tắc,cái,35600,SUP09
+ITM229,Máng cáp D16 Std,Ống & Phụ kiện,cây,85000,SUP12
+ITM230,Ổ cắm đôi đen Plus,Ổ cắm & Công tắc,cái,55500,SUP09
+ITM231,Cáp điều khiển 2.5mm² Pro,Cáp điện,mét,51000,SUP11
+ITM232,Tủ điện âm tường 6 module Pro,Tủ điện,cái,1294400,SUP06
+ITM233,Aptomat 2P 63A Eco,Aptomat & Cầu dao,cái,83700,SUP01
+ITM234,Đèn LED panel 50W Std,Đèn LED,cái,151500,SUP06
+ITM235,Công tắc 2 chiều vàng đồng Eco,Ổ cắm & Công tắc,cái,68400,SUP11
+ITM236,Aptomat 1P 40A Std,Aptomat & Cầu dao,cái,119000,SUP06
+ITM237,Công tắc 1 chiều đen Plus,Ổ cắm & Công tắc,cái,39300,SUP11
+ITM238,Aptomat 1P 20A Std,Aptomat & Cầu dao,cái,77100,SUP06
+ITM239,Cầu dao 2P 63A Std,Aptomat & Cầu dao,cái,526500,SUP06
+ITM240,Aptomat 1P 63A Pro,Aptomat & Cầu dao,cái,64900,SUP02
+ITM241,Cáp đồng 2 lõi 6mm² Pro,Cáp điện,mét,10300,SUP11
+ITM242,Cáp nhôm vặn xoắn 6mm² Pro,Cáp điện,mét,27800,SUP03
+ITM243,Cáp nhôm vặn xoắn 10mm² Std,Cáp điện,mét,10100,SUP11
+ITM244,Công tắc 2 chiều ghi Std,Ổ cắm & Công tắc,cái,17300,SUP02
+ITM245,Aptomat 3P 20A Plus,Aptomat & Cầu dao,cái,443200,SUP06
+ITM246,Đèn LED tuýp 36W Std,Đèn LED,cái,114500,SUP06
+ITM247,Đèn pha LED 18W Std,Đèn LED,cái,94500,SUP06
+ITM248,Đèn LED tuýp 24W Eco,Đèn LED,cái,154200,SUP12
+ITM249,Co nối D20 Eco,Ống & Phụ kiện,cây,5000,SUP05
+ITM250,Máng cáp D16 Eco,Ống & Phụ kiện,cây,121500,SUP12
+ITM251,Cầu dao 2P 20A Plus,Aptomat & Cầu dao,cái,46500,SUP06
+ITM252,Cáp nhôm vặn xoắn 2.5mm² Eco,Cáp điện,mét,39500,SUP11
+ITM253,Đèn LED panel 12W Std,Đèn LED,cái,562900,SUP04
+ITM254,Cáp đồng 2 lõi 2.5mm² Eco,Cáp điện,mét,45600,SUP03
+ITM255,Công tơ điện Model C Eco,Thiết bị đo,cái,490800,SUP10
+ITM256,Công tắc 1 chiều vàng đồng Plus,Ổ cắm & Công tắc,cái,15200,SUP09
+ITM257,Ống ruột gà D40 Plus,Ống & Phụ kiện,cây,96700,SUP09
+ITM258,Tủ điện âm tường 24 module Pro,Tủ điện,cái,240100,SUP08
+ITM259,Mỏ lết Loại lớn Pro,Dụng cụ,cái,871500,SUP10
+ITM260,Cáp đồng 1 lõi 2.5mm² Eco,Cáp điện,mét,8500,SUP01
+ITM261,Co nối D25 Eco,Ống & Phụ kiện,cây,70300,SUP12
+ITM262,Cáp nhôm vặn xoắn 2.5mm² Std,Cáp điện,mét,16600,SUP01
+ITM263,Ống ruột gà D32 Plus,Ống & Phụ kiện,cây,34900,SUP12
+ITM264,Đèn pha LED 36W Pro,Đèn LED,cái,539500,SUP12
+ITM265,Tua vít Loại nhỏ Std,Dụng cụ,cái,48600,SUP12
+ITM266,Cáp nhôm vặn xoắn 1.5mm² Eco,Cáp điện,mét,16800,SUP01
+ITM267,Đèn pha LED 12W Eco,Đèn LED,cái,51500,SUP04
+ITM268,Cáp điều khiển 6mm² Std,Cáp điện,mét,59800,SUP11
+ITM269,Ống luồn dây D40 Eco,Ống & Phụ kiện,cây,55600,SUP09
+ITM270,Kìm điện Loại nhỏ Eco,Dụng cụ,cái,228400,SUP10
+ITM271,Đèn LED tuýp 50W Eco,Đèn LED,cái,204500,SUP04
+ITM272,Đèn LED panel 9W Pro,Đèn LED,cái,511100,SUP12
+ITM273,Công tắc 2 chiều bạc Eco,Ổ cắm & Công tắc,cái,33300,SUP09
+ITM274,Cáp nhôm vặn xoắn 1.5mm² Pro,Cáp điện,mét,9800,SUP11
+ITM275,Aptomat 3P 20A Std,Aptomat & Cầu dao,cái,358100,SUP02
+ITM276,Cáp điều khiển 6mm² Pro,Cáp điện,mét,8400,SUP03
+ITM277,Cầu dao 2P 10A Plus,Aptomat & Cầu dao,cái,270200,SUP06
+ITM278,Đèn pha LED 18W Pro,Đèn LED,cái,89300,SUP12
+ITM279,Ổ cắm ba vàng đồng Std,Ổ cắm & Công tắc,cái,190100,SUP02
+ITM280,Công tắc 1 chiều bạc Pro,Ổ cắm & Công tắc,cái,71600,SUP02
+ITM281,Cáp đồng 2 lõi 2.5mm² Pro,Cáp điện,mét,82100,SUP01
+ITM282,Đèn LED tuýp 36W Plus,Đèn LED,cái,586600,SUP06
+ITM283,Mỏ lết Loại nhỏ Pro,Dụng cụ,cái,1174100,SUP10
+ITM284,Ampe kìm Model B Eco,Thiết bị đo,cái,573300,SUP10
+ITM285,Tủ điện âm tường 24 module Std,Tủ điện,cái,236300,SUP08
+ITM286,Cáp nhôm vặn xoắn 4mm² Pro,Cáp điện,mét,16700,SUP01
+ITM287,Đèn LED tuýp 36W Pro,Đèn LED,cái,227700,SUP12
+ITM288,Bóng LED bulb 36W Plus,Đèn LED,cái,73700,SUP04
+ITM289,Cầu dao 2P 63A Pro,Aptomat & Cầu dao,cái,159600,SUP02
+ITM290,Đèn LED panel 50W Plus,Đèn LED,cái,526200,SUP04
+ITM291,Mỏ lết Loại vừa Pro,Dụng cụ,cái,735200,SUP07
+ITM292,Tủ điện ngoài trời 24 module Plus,Tủ điện,cái,578900,SUP08
+ITM293,Máng cáp D32 Pro,Ống & Phụ kiện,cây,11800,SUP12
+ITM294,Ampe kìm Model C Plus,Thiết bị đo,cái,230300,SUP10
+ITM295,Tua vít Loại nhỏ Eco,Dụng cụ,cái,73000,SUP10
+ITM296,Aptomat 3P 10A Std,Aptomat & Cầu dao,cái,280800,SUP01
+ITM297,Đèn LED panel 12W Plus,Đèn LED,cái,192300,SUP12
+ITM298,Máng cáp D25 Eco,Ống & Phụ kiện,cây,9400,SUP09
+ITM299,Tủ điện nổi 6 module Pro,Tủ điện,cái,402500,SUP05
+ITM300,Máy khoan Loại nhỏ Eco,Dụng cụ,cái,132800,SUP12
