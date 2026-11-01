@@ -1,5 +1,5 @@
-# Phân tích tồn kho và chuỗi cung ứng (Power BI)
-
+# Inventory & Supply Chain Analytics Platform
+Phân tích tồn kho và chuỗi cung ứng (Power BI)
 Dashboard Power BI quản trị tồn kho và mua hàng cho một công ty phân phối vật tư thiết bị điện. Dashboard trả lời 3 câu hỏi:
 
 1. Tiền đang nằm ở những mã hàng nào, hàng nào bán chậm hoặc không bán được (hàng tồn đọng)?
